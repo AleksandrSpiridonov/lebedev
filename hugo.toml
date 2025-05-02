@@ -1,0 +1,5 @@
+baseURL = 'https://AleksandrSpiridonov.github.io/lebedev'
+languageCode = 'ru'
+defaultContentLanguage = 'ru'
+title = 'Евгений Лебедев'
+theme = 'hugo-book'
