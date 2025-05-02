@@ -3,4 +3,8 @@ languageCode = 'ru'
 defaultContentLanguage = 'ru'
 title = 'Евгений Лебедев'
 theme = 'hugo-book'
-publishDir = "docs/lebedev"
+publishDir = "docs"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
