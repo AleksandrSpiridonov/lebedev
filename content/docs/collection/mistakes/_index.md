@@ -3,7 +3,7 @@ weight: 2
 title: "Ошибки молодости"
 ---
 # Ошибки молодости
-![Обложка сборника "Ошибки молодости"](/lebedev/images/collection/mistakes/mistakesCover.jpg)
+![Обложка сборника "Ошибки молодости"](/images/collection/mistakes/mistakesCover.jpg)
 
 ## Выходные данные
 *Лебедев Е. А.* Ошибки молодости. Оформление Е.Медведева. СПб: Катоблепас, 2024
