@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on Евгений Лебедев</title>
-    <link>https://AleksandrSpiridonov.github.io/lebedev/docs/</link>
+    <link>https://aleksandrspiridonov.github.io/lebedev/docs/</link>
     <description>Recent content in Docs on Евгений Лебедев</description>
     <generator>Hugo</generator>
     <language>ru</language>
-    <atom:link href="https://AleksandrSpiridonov.github.io/lebedev/docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aleksandrspiridonov.github.io/lebedev/docs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
