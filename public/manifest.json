@@ -1,14 +1,14 @@
 {
   "name": "Евгений Лебедев",
   "short_name": "Евгений Лебедев",
-  "start_url": "/lebedev/",
-  "scope": "/lebedev/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/lebedev/favicon.svg",
+      "src": "/favicon.svg",
       "sizes": "512x512"
     }
   ]
