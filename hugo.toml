@@ -3,4 +3,4 @@ languageCode = 'ru'
 defaultContentLanguage = 'ru'
 title = 'Евгений Лебедев'
 theme = 'hugo-book'
-publishDir = "docs"
+publishDir = "docs/lebedev"
