@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Sitemap: https://evglebedev.ru/sitemap.xml
+
+# Запрещаем индексацию служебных директорий
+Disallow: /admin/
+Disallow: /tmp/
+Disallow: /private/ 

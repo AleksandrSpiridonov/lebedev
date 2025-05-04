@@ -4,6 +4,22 @@ defaultContentLanguage = 'ru'
 title = 'Евгений Лебедев'
 theme = 'hugo-book'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[params]
+  description = "Сайт поэта Евгения Лебедева. Автор сборника 'Ошибки молодости'"
+  author = "Евгений Лебедев"
+  keywords = ["Евгений Лебедев", "поэзия", "стихи", "Ошибки молодости", "современная поэзия", "литература"]
+  images = ["/images/og-image.jpg"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
