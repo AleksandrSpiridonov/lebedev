@@ -23,3 +23,7 @@ theme = 'hugo-book'
   changefreq = "weekly"
   priority = 0.5
   filename = "sitemap.xml"
+
+[build]
+  writeStats = true
+  noJSBundleInAssets = true
