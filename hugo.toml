@@ -27,3 +27,19 @@ theme = 'hugo-book'
 [build]
   writeStats = true
   noJSBundleInAssets = true
+
+[menu]
+  [[menu.main]]
+    name = "Главная"
+    url = "/"
+    weight = 1
+  
+  [[menu.main]]
+    name = "Сборники"
+    url = "/docs/collection/"
+    weight = 2
+  
+  [[menu.main]]
+    name = "Посты"
+    url = "/posts/"
+    weight = 3
